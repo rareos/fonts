@@ -1,42 +1,30 @@
-<p align="center">
-  <img src="https://github.com/system76/pop-fonts/raw/master/Pop_fonts-logo.png" alt="preview"/>
-</p>
+## Fonts for rareOS
 
-## Fonts for System76
-
-System76 primarily uses two fonts, Fira and Roboto Slab. 
-
-Both are included for wasy installation with the Pop Themes
+Typically, the Source Sans Pro font is used for all UI segments.
 
 
 ### Recommendations
 
-- Icons: [Pop Icon Theme](https://github.com/system76/pop-icon-theme)
-- Theme: [Pop GTK Theme](https://github.com/system76/pop-gtk-theme)
 - For fonts, use: 
- > Window Titles: Fira Sans SemiBold 10
+ > Window Titles: Source Sans Pro SemiBold 10
  
- > Interface: Fira Sans Book 10
+ > Interface: Source Sans Pro 10
  
- > Documents: Roboto Slab Regular 11
+ > Documents: Source Sans Pro Regular 11
  
- > Monospace: Fira Mono Regular 11
+ > Monospace: Source Sans Pro Regular 11
  
 
 ## Installation
 
 ### From Archive
-You can install the fonts on Ubuntu-based OSs through our PPA. All components of the Pop look and feel can be installed using:
+You can install the fonts on Ubuntu-based OSs through our PPA. 
 ```
-sudo apt-add-repository ppa:system76/pop
+sudo apt-add-repository ppa:rareos/rareos-fonts
 sudo apt update
-sudo apt install pop-theme
+sudo apt install rareos-fonts
 ```
 
-You can also install components individually:
-```
-sudo apt install pop-fonts
-```
 
 ### From Github
 Clone this repo, then use the following command to install the fonts system-wide:
@@ -45,6 +33,6 @@ sudo make install
 ```
 *Note, a separate `./configure` and `make` are not required.
 
-You can also copy the `fira/` and `/roboto-slab` folders into your user's local font folder, typically `~/.local/share/fonts/`. 
+You can also copy the `sourcesans/` folder into your user's local font folder, typically `~/.local/share/fonts/`. 
 
 You may need to log out and log back in for any changes to take effect.

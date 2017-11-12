@@ -1,13 +1,13 @@
-Source: pop-fonts
+Source: rareos-fonts
 Section: gnome
 Priority: optional
-Maintainer: Jeremy Soller <jeremy@system76.com>
-Uploaders: Ian Santopietro <ian@system76.com>
+Maintainer: Mason Back <mason@orioncomputing.net>
+Uploaders: Mason Back <mason@orioncomputing.net>
 Build-Depends: debhelper (>= 9)
 Standards-Version: 3.9.8
-Homepage: https://github.com/system76/pop-fonts
+Homepage: https://github.com/rareos/rareos-fonts
 
-Package: pop-fonts
+Package: rareos-fonts
 Architecture: all
 Conflicts: system76-pop-fonts
-Description: Pop Fonts
+Description: rareOS Fonts

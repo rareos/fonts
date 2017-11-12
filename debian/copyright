@@ -1,7 +1,7 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: pop-fonts
-Source: https://github.com/system76/pop-fonts
+Upstream-Name: rareos-fonts
+Source: https://github.com/rareos/rareos-fonts
 
 Files: *
-Copyright: Copyright 2016-2017 System76
+Copyright: Copyright 2017 Orion Computing LLC
 License: SIL-OFL
