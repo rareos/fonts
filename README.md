@@ -20,7 +20,7 @@ Typically, the Source Sans Pro font is used for all UI segments.
 ### From Archive
 You can install the fonts on Ubuntu-based OSs through our PPA. 
 ```
-sudo apt-add-repository ppa:rareos/rareos-fonts
+sudo apt-add-repository ppa:rareos/ppa
 sudo apt update
 sudo apt install rareos-fonts
 ```
