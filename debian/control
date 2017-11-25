@@ -9,5 +9,4 @@ Homepage: https://github.com/rareos/rareos-fonts
 
 Package: rareos-fonts
 Architecture: all
-Conflicts: system76-pop-fonts
 Description: rareOS Fonts

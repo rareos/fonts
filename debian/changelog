@@ -1,3 +1,9 @@
+rareos-fonts (1.0.1) artful; urgency=medium
+
+  * Add Source Code Pro
+
+ -- Kian Moretz <kian@orioncomputing.net>  Sat, 25 Nov 2017 13:57:05 -0500
+
 rareos-fonts (1.0.0) zesty; urgency=medium
 
   * First release
