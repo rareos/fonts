@@ -6,7 +6,7 @@ is used for monospace elements.
 ### Recommendations
 
 * For fonts, use:
-  > Window Titles: Source Sans Pro SemiBold 10
+> Window Titles: Source Sans Pro SemiBold 10
 
 > Interface: Source Sans Pro 10
 
