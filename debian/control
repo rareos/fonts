@@ -1,8 +1,8 @@
 Source: rareos-fonts
 Section: gnome
 Priority: optional
-Maintainer: Mason Back <mason@orioncomputing.net>
-Uploaders: Mason Back <mason@orioncomputing.net>
+Maintainer: Mason Lee Back <mason@orioncomputing.net>
+Uploaders: Mason Lee Back <mason@orioncomputing.net>
 Build-Depends: debhelper (>= 9)
 Standards-Version: 3.9.8
 Homepage: https://github.com/rareos/rareos-fonts
