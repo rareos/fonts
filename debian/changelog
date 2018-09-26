@@ -1,3 +1,9 @@
+rareos-fonts (1.0.3) cosmic; urgency=medium
+
+  * Port to Cosmic
+
+ -- Mason Lee Back <mason@orioncomputing.net>  Wed, 25 Sep 2018 21:37:00 -0500
+
 rareos-fonts (1.0.2) artful; urgency=medium
 
   * Clean up email stuff and get ready for release
